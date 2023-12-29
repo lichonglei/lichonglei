@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lichonglei
-- 👀 I’m interested in c,c++,java,go,python.
-- 🌱 I’m currently learning go
+- 👋 Hi, I’m @Elian
+- 👀 I’m interested in rust,go.
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
